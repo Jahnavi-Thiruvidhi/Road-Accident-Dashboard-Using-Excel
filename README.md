@@ -31,6 +31,7 @@ This project is designed to analyze road accident data to uncover insights and t
 ### Dashboard:
 
 The dashboard serves as an interactive interface to explore insights derived from the road accident data. It includes various visualizations such as charts, graphs, and tables to highlight key findings and trends.
+<img src="https://github.com/Jahnavi-Thiruvidhi/Road-Accident-Dashboard-Using-Excel/blob/main/Road%20Accident%20Dashboard.png?raw=true">
 
 ### Usage:
 
